@@ -6,3 +6,4 @@
 * follow me?
 * Social media links?
 * all blogs
+* Speaker contact page
