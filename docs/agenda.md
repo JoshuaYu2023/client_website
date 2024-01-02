@@ -3,9 +3,12 @@
 ## Pages
 
 * **Landing Page:** NavBar w/ Home, About Me, Admin, Blogs, and Speaker segments
-*  **About Me:** About me blerb w/ photos
-*  **Blogs:** Each individual blog post ordered by date
-*  **Speaker:** Speaker packet? and contact info
+  *  **About Me:** About me blerb w/ photo, click to get redirected to the full page
+  *  **Blogs:** Most recent blog posts ordered by date, click and get redirected to actual blogs page
+  *  **Speaker:** Brief blerb summarizing topics, redirects to speaker page
+* **About Me:** Page that has the whole about me section and photos
+* **Blogs:** Each individual blog post ordered by date
+* **Speaker:** Speaking topics, email to contact her about speaking, potential headshots for speaking engagement needs?
 
 ## What I need
 
