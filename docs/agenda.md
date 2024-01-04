@@ -17,3 +17,5 @@
 3) Speaker packet info
 4) Email to contact about speaking
 5) first few blogs?
+6) Desired colors
+7) Logo
